@@ -6,3 +6,6 @@
 <h3 align="center">Python rješenja (1. razred): https://github.com/1b-V-gimnazija/python-prvi-razred</h3>
 <h3 align="center">HTML rješenja (1. razred): https://github.com/1b-V-gimnazija/HTML-prvi-razred</h3>
 <hr>
+<h3 align="center">Python rješenja (2. razred): https://github.com/1b-V-gimnazija/python-drugi-razred</h3>
+<hr>
+
